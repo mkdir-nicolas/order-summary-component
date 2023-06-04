@@ -2,6 +2,7 @@
 [Challenge] Frontend Mentor 
 <br>
 [Frontend Mentor - My solution](https://www.frontendmentor.io/solutions/order-summary-component-iTBDq2Lste)
+<br>
 🔗[Link - Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 <br>
 🔗[My code](https://mkdir-nicolas.github.io/order-summary-component/)
