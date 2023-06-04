@@ -5,7 +5,7 @@
 <br>
 🔗[Frontend Mentor - My solution](https://www.frontendmentor.io/solutions/order-summary-component-iTBDq2Lste)
 <br>
-🔗[My code](https://mkdir-nicolas.github.io/order-summary-component/)
+🔗[Live site](https://mkdir-nicolas.github.io/order-summary-component/)
 
 <br>
 <br>
